@@ -559,12 +559,12 @@ export const products = [
 
 export const singleUser = {
   id: 1,
-  title: "John Doe",
+  title: "Luke SkyWalker",
   img: "https://images.pexels.com/photos/17397364/pexels-photo-17397364.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   info: {
-    username: "Johndoe99",
-    fullname: "John Doe",
-    email: "johndoe@gmail.com",
+    username: "Vader99",
+    fullname: "Luke SkyWalker",
+    email: "darthvader@gmail.com",
     phone: "123 456 789",
     status: "verified",
   },
@@ -613,27 +613,27 @@ export const singleUser = {
   },
   activities: [
     {
-      text: "John Doe purchased Playstation 5 Digital Edition",
+      text: "Luke SkyWalker purchased Playstation 5 Digital Edition",
       time: "3 day ago",
     },
     {
-      text: "John Doe added 3 items into their wishlist",
+      text: "Luke SkyWalker added 3 items into their wishlist",
       time: "1 week ago",
     },
     {
-      text: "John Doe purchased Sony Bravia KD-32w800",
+      text: "Luke SkyWalker purchased Sony Bravia KD-32w800",
       time: "2 weeks ago",
     },
     {
-      text: "John Doe reviewed a product",
+      text: "Luke SkyWalker reviewed a product",
       time: "1 month ago",
     },
     {
-      text: "John Doe added 1 items into their wishlist",
+      text: "Luke SkyWalker added 1 items into their wishlist",
       time: "1 month ago",
     },
     {
-      text: "John Doe reviewed a product",
+      text: "Luke SkyWalker reviewed a product",
       time: "2 months ago",
     },
   ],
