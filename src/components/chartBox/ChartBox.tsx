@@ -17,7 +17,7 @@ const ChartBox = (props: Props) => {
     <div className="chartBox">
       <div className="boxInfo">
         <div className="title">
-          <img src={props.icon} alt="" />
+          <img src="" alt="" />
           <span>{props.title}</span>
         </div>
         <h1>{props.number}</h1>
